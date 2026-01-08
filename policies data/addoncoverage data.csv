@@ -1,0 +1,31 @@
+"addon_id";"addon_name";"description";"rate"
+1;"Zero Depreciation Cover";"Covers full cost of replaced vehicle parts without depreciation.";12.5
+2;"Engine Protection Cover";"Protects against engine damage from water ingression or oil leakage.";8.75
+3;"Roadside Assistance";"24x7 help in case of vehicle breakdown, towing, or fuel shortage.";4.5
+4;"Return to Invoice Cover";"Pays the difference between insured value and invoice value during total loss.";10.0
+5;"No Claim Bonus Protection";"Keeps NCB intact even after a single claim in a policy year.";6.0
+6;"Consumables Cover";"Covers small consumable parts like nuts, bolts, and oil in case of a claim.";3.25
+7;"Tyre Protection Cover";"Covers repair or replacement of damaged tyres and tubes.";5.5
+8;"Key Replacement Cover";"Covers cost of replacing lost or stolen keys and locks.";2.8
+9;"Passenger Cover";"Provides additional cover for passengers traveling in the insured vehicle.";7.5
+10;"Personal Accident Cover";"Covers the owner-driver for accidental death or permanent disability.";8.0
+11;"Daily Allowance Benefit";"Provides daily transport allowance when the vehicle is in repair.";3.75
+12;"Loss of Personal Belongings";"Compensates for theft or damage of personal items kept in the vehicle.";2.5
+13;"Emergency Transport & Hotel";"Covers accommodation and travel costs in case of a major breakdown.";4.0
+14;"Invoice Value Protection";"Restores full invoice value for total loss or theft of vehicle.";9.25
+15;"Electrical Accessories Cover";"Insures additional electrical accessories fitted in the vehicle.";2.9
+16;"Non-Electrical Accessories Cover";"Insures non-electrical accessories such as seat covers or alloy wheels.";2.75
+17;"Depreciation Reimbursement";"Reimburses the depreciation deducted during parts replacement.";11.0
+18;"Engine Secure Plus";"Extensive protection for internal engine and gearbox failures.";7.25
+19;"Fuel Assistance Cover";"Provides on-road fuel delivery service in case of an empty tank.";2.0
+20;"Towing and Crane Cover";"Covers cost of towing vehicle to the nearest garage after breakdown.";3.0
+21;"Legal Liability to Paid Driver";"Covers legal liability towards employed paid driver.";1.8
+22;"Hospital Cash Benefit";"Provides daily cash allowance during hospitalization post accident.";5.0
+23;"Ambulance Charge Cover";"Reimburses ambulance charges in case of an accident.";2.4
+24;"Engine Secure Advanced";"Covers advanced mechanical breakdown protection for engines.";8.2
+25;"Return to Value Cover";"Provides return of vehicle value at market price upon total loss.";6.8
+26;"Replacement Vehicle Cover";"Provides temporary replacement vehicle during major repair.";4.25
+27;"Hydrostatic Lock Cover";"Covers damage caused by hydrostatic lock due to flooding.";5.75
+28;"Invoice Return Cover";"Covers full invoice value minus depreciation during total loss.";9.0
+29;"Driver Cover";"Additional personal accident cover for hired or employed driver.";3.6
+30;"Garage Cash Benefit";"Covers daily allowance when the vehicle is under repair at a garage.";4.1
